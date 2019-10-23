@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts Example</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="first_name">First Name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="street">Street: </string>
+    <string name="city">City: </string>
+    <string name="state">State: </string>
+    <string name="zip_code">Zip Code: </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_text">No Contacts found</string>
+</resources>
